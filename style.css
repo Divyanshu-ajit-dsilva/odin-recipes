@@ -1,0 +1,14 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.heading{
+    text-align: center;
+    background-color: yellow;
+    color: red;
+}
+
+#list{
+    background-color: rgb(24, 124, 190);
+    color: white;
+}
