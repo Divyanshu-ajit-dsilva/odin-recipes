@@ -1,14 +1,20 @@
 *{
     font-family: Arial, Helvetica, sans-serif;
+    margin: 10px;
 }
 
 .heading{
     text-align: center;
     background-color: yellow;
     color: red;
+    margin-bottom: 20px;
+    padding: 10px;
+    outline: 3px solid red;
 }
 
 #list{
     background-color: rgb(24, 124, 190);
     color: white;
+    padding: 10px 5px;
+    outline: 3px solid red;
 }

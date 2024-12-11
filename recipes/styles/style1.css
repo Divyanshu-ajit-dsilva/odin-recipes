@@ -5,10 +5,12 @@
 h1,h2{
     text-align: center;
     border: 2px solid black;
+    padding: 5px;
 }
 p{
     text-align: justify;
     text-justify: inter-word;
+    padding: 5px;
 }
 img{
     display: block;
